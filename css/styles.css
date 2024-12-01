@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+    font-size: 28px;
+    font-family: Copperplate, serif;
+    background-color: #3cbdc4;
+}
+
+.unolist {
+    text-align: center;
+    list-style-position: inside;
+    font-family: Papyrus, serif;
+    background-color: #c4703ccb;
+}
